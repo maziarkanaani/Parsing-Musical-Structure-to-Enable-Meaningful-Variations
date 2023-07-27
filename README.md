@@ -13,9 +13,3 @@ In this repository you can find three more examples. These three examples have t
 [1] S.M.Marshall,D.Moore,A.R.Murray,S.I.Walker,andL.Cronin,“Quantifyingthepathways to life using assembly spaces,” arXiv preprint arXiv:1907.04649, 2019.
 
 [2] C. G. Nevill-Manning and I. H. Witten, “Identifying hierarchical structure in sequences: A linear-time algorithm,” Journal of Artificial Intelligence Research, vol. 7, pp. 67–82, 1997.
-
-
----
-
-With these changes, the README should now display correctly with headings and bold text in the appropriate places. When you copy and paste this text into your GitHub repository's README.md file, the Markdown formatting will be applied automatically.
-
