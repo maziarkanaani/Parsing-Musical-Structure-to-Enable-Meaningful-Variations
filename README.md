@@ -9,7 +9,7 @@ The study presents a novel rule-based approach for generating music by varying e
 In this repository you can find three more examples. These three examples have three PAI ranges: low, middle and high. To explore how they changed after 35 mutations and 100 mutations, we present the results. A very short PAI occurs when the tune becomes very short, not in lengthy or regular-size tunes. In our outputs, a middle size tune with a middle size PAI was very common. Large PAI happens just in long length tunes. However, it does not mean that long tunes always have a large PAI. You can lis ten to the midi files in 35 and 100 mutations for these three examples. In addition, you can also see their piano rolls, CSV files and graphs.
 
 
-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 [1] S.M.Marshall,D.Moore,A.R.Murray,S.I.Walker,andL.Cronin,“Quantifyingthepathways to life using assembly spaces,” arXiv preprint arXiv:1907.04649, 2019.
 
 [2] C. G. Nevill-Manning and I. H. Witten, “Identifying hierarchical structure in sequences: A linear-time algorithm,” Journal of Artificial Intelligence Research, vol. 7, pp. 67–82, 1997.
